@@ -12,3 +12,6 @@
 - Hybrid Approach: Combines the prediction scores or features from both the Content-Based and Collaborative Filtering models (e.g., through a weighted hybrid or mixed hybrid approach) for a final prediction.
 
 - Data Preprocessing and EDA: Includes all necessary steps for cleaning, transforming, and exploring the raw user-item interaction data before model building.
+
+### ✍️ Author
+Saurabh Kabra
